@@ -1,0 +1,11 @@
+
+~
+java:S1450"cRemove the "cameraProviderFuture" field and declare it as a local variable in the relevant methods.(²Œğÿÿÿÿÿ
+t
+java:S2142/"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(åÅç“
+G
+java:S1905N"1Remove this unnecessary cast to "LifecycleOwner".(óîóÉ
+F
+java:S1172Q"+Remove this unused method parameter "view".(¥˜‡±ûÿÿÿÿ
+C
+java:S1185]"(Remove this method to simply inherit it.(¡¹Ëüıÿÿÿÿ
